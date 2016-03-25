@@ -28,7 +28,6 @@ const styles = StyleSheet.create({
     alignSelf: 'stretch'
   },
   buttonContainer: {
-    //backgroundColor: "green",
     alignSelf: 'stretch',
     height: 100,
     alignItems: 'center',
